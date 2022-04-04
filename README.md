@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:AFC4E7,100:CB9FFD&height=300&section=header&text=WElCOME&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=0:AFC4E7,100:CB9FFD&height=300&section=header&text=WELCOME&fontSize=90)
 
 <h3>Tech Stack<h3>
 
