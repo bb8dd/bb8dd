@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=0:AFC4E7,100:CB9FFD&height=300&section=header&text=WELCOME&fontSize=90)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frealludaga&count_bg=%23090909&title_bg=%235697E9&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/realludaga)
+
 
 <div align="center">
 <img
@@ -15,5 +15,7 @@
 <img
   src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"
 />
-
+</div>
+<div align="center">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frealludaga&count_bg=%23090909&title_bg=%235697E9&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
